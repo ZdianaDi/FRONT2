@@ -1,0 +1,17 @@
+{
+    "name": "my-sass-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build:css": "sass styles/main.scss styles/css/main.css --no-source-map"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    },
+    "devDependencies": {
+        "sass": "^1.86.0"
+    }
+}

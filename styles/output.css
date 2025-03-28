@@ -1,0 +1,33 @@
+.text-primary {
+  color: #5b3ce7;
+}
+
+.text-secondary {
+  color: #0f0634;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+}
+
+.content-box {
+  padding: 20px;
+  background: #f4f4f4;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.custom-btn {
+  background: #6d3ce7;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+.custom-btn:hover {
+  background: rgb(236.5890410959, 117.6849315068, 105.4109589041);
+}
+
+/*# sourceMappingURL=output.css.map */
